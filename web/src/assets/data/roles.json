@@ -1,0 +1,31 @@
+[
+  {
+    "year": 2019,
+    "month": "Jul",
+    "title": "Software Engineer",
+    "employer": "Orange Labs",
+    "description": "Full Time Software engineer work with Spring and angular to develop a FullStack Application"
+  },
+  {
+    "year": 2018,
+    "month": "Jul",
+    "title": "Java 9 month Diploma",
+    "employer": "Information Technology Institution (ITI)",
+    "description": "A practical diploma for building enterprise and web application using Java (Spring Framework)"
+  },
+  {
+    "year": 2017,
+    "month": "Jul",
+    "title": "Android Developer",
+    "employer": "FreeLance",
+    "description": "Work as Android developer for a year on freelance projects while i was at collage"
+  },
+  {
+    "year": 2014,
+    "month": "Jul",
+    "title": "Bachelor of computer and information science",
+    "employer": "Ain Shams University",
+    "description": "Computer Science Bachelor Degree from Ain Shams University placed 21 out of 800 student"
+  }
+
+]

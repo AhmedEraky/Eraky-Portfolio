@@ -1,0 +1,38 @@
+# Copied from https://github.com/github/gitignore
+### IntelliJ Idea ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### Maven ###
+target/
+pom.xml.versionsBackup
+#############
+
+### Java ###
+*.class
+#############
+
+### Java Package Files ###
+*.jar
+*.war
+*.ear
+#############
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+.project
+.classpath
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.springBeans
+/hr-app/Dockerfile

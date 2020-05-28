@@ -1,0 +1,29 @@
+<section class="p-5">
+
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col text-center mb-3">
+        <h1 class="text-warning text-break display-4">Work Experience</h1>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-md-12">
+        <div class="main-timeline4">
+          <div *ngFor="let role of (roles | async)" class="timeline">
+            <a routerLink="#" class="timeline-content">
+              <p class="year">{{role.year}}</p>
+              <div class="inner-content">
+                <h3 class="title">{{role.title}}</h3>
+                <h5 class="text-muted font-weight-bolder">{{role.employer}}</h5>
+                <p class="description">{{role.description}}</p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+s
+  </div>
+</section>
