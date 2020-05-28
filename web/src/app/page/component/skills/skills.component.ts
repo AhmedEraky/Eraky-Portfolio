@@ -8,7 +8,7 @@ import {SkillsService} from '../../../service/skills.service';
 })
 export class SkillsComponent implements OnInit {
 
-  private skills: Observable<string[]>;
+  skills: Observable<string[]>;
   constructor(private skillsService: SkillsService) { }
 
   ngOnInit() {

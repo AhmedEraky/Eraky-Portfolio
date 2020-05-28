@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Toy Store",
+    "image": "assets/images/toysStore.jpg",
+    "demo": "https://nameless-inlet-60892.herokuapp.com/",
+    "code": "https://github.com/AhmedEraky/toysOnlineStore",
+    "type": "Web Application",
+    "description": "E-commerce Web Application for ITI Diploma",
+    "technologies": [
+      "Java",
+      "Servlet",
+      "JSP",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Dealer",
+    "image": "assets/images/dealer.jpg",
+    "type": "Android Application",
+    "demo": "https://play.google.com/store/apps/details?id=com.vegeta.my.dealer",
+    "code": "https://github.com/AhmedEraky/DelarApp-master",
+    "description": "E-commerce Android Application",
+    "technologies": [
+      "Java",
+      "Android",
+      "XML"
+    ]
+  }
+]
