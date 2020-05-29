@@ -25,13 +25,9 @@
             </div>
           </div>
 
-          <div class="card-footer bg-dark d-flex flex-column flex-md-row  justify-content-between">
-            <div class="mb-2">
-              <a *ngIf="project.demo != null" [href]="project.demo" target="_blank" class="btn btn-secondary text-white btn-sm">Demo</a>
-            </div>
-            <div class="mb-2">
+          <div class="card-footer bg-dark d-flex flex-column flex-sm-row  justify-content-between">
+              <a *ngIf="project.demo != null" [href]="project.demo" target="_blank" class="btn btn-secondary text-white btn-sm mb-3 mb-sm-0">Demo</a>
               <a *ngIf="project.code != null" [href]="project.code" target="_blank" class="btn btn-secondary text-white btn-sm">Code</a>
-            </div>
 
           </div>
         </div>
