@@ -1,10 +1,16 @@
 [
   {
     "year": 2019,
-    "month": "Jul",
-    "title": "Software Engineer",
+    "month": "Dec",
+    "title": "Java Software Engineer",
     "employer": "Orange Labs",
     "description": "Full Time Software engineer work with Spring and angular to develop a FullStack Application"
+  },{
+    "year": 2019,
+    "month": "Jul",
+    "title": "Java Software Engineer",
+    "employer": "Fawry Banking and Payment Service",
+    "description": "Full Time Software engineer work on in Fin-Tech domain"
   },
   {
     "year": 2018,
